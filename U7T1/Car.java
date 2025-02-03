@@ -1,6 +1,6 @@
 package U7T1;
-
 public class Car {
+
     private String model;
     private int miles;
 
@@ -12,4 +12,6 @@ public class Car {
     public String toString() {
         return model + " " + miles + "mi";
     }
+
+    
 }
